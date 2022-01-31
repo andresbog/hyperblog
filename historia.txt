@@ -7,5 +7,7 @@ hoy repase 2 clases anteriores
 
 master
 
+master 2
+
 
 se crea un archivo html con una ruta relativa de css
